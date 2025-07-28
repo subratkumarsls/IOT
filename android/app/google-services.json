@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403843802264",
+    "firebase_url": "https://internet-of-things-97930-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "internet-of-things-97930",
+    "storage_bucket": "internet-of-things-97930.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403843802264:android:efa03fd6d82b460e7a1ced",
+        "android_client_info": {
+          "package_name": "com.example.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403843802264-21l98ibjfgmc8qmahol9cqb7de7h2tpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkgM0z65Z8GdUzT7tSBWcBVS-ka67S8SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403843802264-21l98ibjfgmc8qmahol9cqb7de7h2tpo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403843802264-hffl5glmdcll1qdv9dkm8gp69olcrb2d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
